@@ -1,5 +1,6 @@
 .background {
    background-color:#ffff; 
+  
 }
 .navbar-brand{
     width: 30%;
@@ -118,7 +119,20 @@
     font-style: normal;
     color:#161515;
 } 
+.fonte-texto-card-footer{
+    font-size: 25px;
+}
+.m-3{
+    color: #161515;
+}
 
 #footer-redes {
-    font-size: 2em;
+    font-size: 3em;
+   
+}
+.fonte-texto-footer{
+    font-family:  'Open Sans Condensed', 
+    sans-serif, Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ padding-bottom: 30px;
 }
